@@ -10,8 +10,6 @@ Structured pruning method for LLMs based on temporal activation dynamics.
 </p>
 
 Each MLP neuron is scored by a hybrid combination of:
-...
-Each MLP neuron is scored by a hybrid combination of:
 
 - **Mean activation** — frequent-pattern signal
 - **Peak activation** — selective neuron preservation
