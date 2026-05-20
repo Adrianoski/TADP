@@ -2,11 +2,11 @@
 Structured pruning method for LLMs based on temporal activation dynamics.
 
 <p align="center">
-  <img src="assets/fig1.png" width="700" alt="TADP Overview"/>
+  <img src="assets/fig1.pdf" width="700" alt="TADP Overview"/>
 </p>
 
 <p align="center">
-  <img src="assets/fig2.png" width="700" alt="TADP Pipeline"/>
+  <img src="assets/fig2.pdf" width="700" alt="TADP Pipeline"/>
 </p>
 
 Each MLP neuron is scored by a hybrid combination of:
