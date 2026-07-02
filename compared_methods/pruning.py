@@ -197,7 +197,7 @@ def blockpruner(model, num_prune, calibration_sample):
 
 
 """
-2SSP: A Two-Stage Framework for Structured Pruning of LLMs (our method)
+2SSP: A Two-Stage Framework for Structured Pruning of LLMs
 
 Implements the complete framework. In the first stage, MLP submodules are pruned
 based on the L2 norms of their hidden states. In the second stage, attention
