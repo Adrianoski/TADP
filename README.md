@@ -54,7 +54,7 @@ batch size, or pruning ratio.
 | Variable           | Default                       | Description                         |
 | ------------------ | ----------------------------- | ----------------------------------- |
 | `MODEL_NAME`       | `meta-llama/Llama-3.2-3B`     | HuggingFace model identifier        |
-| `RECOVERY_SAMPLES` | `100`                         | Calibration samples from WikiText-2 |
+| `RECOVERY_SAMPLES` | `512`                         | Calibration samples                 |
 | `MAX_LENGTH`       | `512`                         | Sequence length                     |
 | `BATCH_SIZE`       | `4`                           | Calibration / eval batch size       |
 | `PRUNE_PERCENT`    | `0.4`                         | Fraction of MLP neurons removed     |
