@@ -24,7 +24,6 @@ The lowest-scoring neurons are removed structurally from `gate_proj`,
 
 ```
 TADP/
-├── compared_methods/     # folder with compared methods 
 ├── config.py             # constants (model, dataset, pruning ratio, TADP config)
 ├── utils.py              # GPU cache, parameter count, text generation
 ├── data.py               # dataset tokenization and DataLoader
