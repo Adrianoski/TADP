@@ -1,4 +1,4 @@
-# TADP — Temporal Activation-Dynamics Pruning
+# TADP - Temporal Activation-Dynamics Pruning
 Structured pruning method for LLMs based on temporal activation dynamics.
 
 <p align="center">
