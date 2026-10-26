@@ -57,4 +57,3 @@ batch size, or pruning ratio.
 | `MAX_LENGTH`       | `512`                         | Sequence length                     |
 | `BATCH_SIZE`       | `4`                           | Calibration / eval batch size       |
 | `PRUNE_PERCENT`    | `0.4`                         | Fraction of MLP neurons removed     |
-| `TADP_CONFIG`      | `temporal_weight=1.0`         | Weight applied to the temporal score |
